@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../../Downloads/data_odometry_poses"
+	},
+	{
+		"path": "../../../Downloads/data_odometry_calib"
+	}
+],
+  "settings": {}
+}
