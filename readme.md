@@ -1,4 +1,4 @@
-# 3D Path Planning with SLAM and A* Algorithm Using LiDAR Data
+# LiDAR-Based SLAM and Path Planning for Robotic Navigation
 
 ## Overview
 
